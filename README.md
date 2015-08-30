@@ -7,8 +7,8 @@ CodeEval:     [https://www.codeeval.com/profile/Creator_r/](https://www.codeeval
 
 ##Solved problems
 
-|: Site :|: Problem :|: Language :|
-|-|-|-|
+| Site | Problem | Language |
+| --- | --- | --- |
 |CodeWars       |ComplementaryDNA                                            |python  |
 |CodeWars       |Alphabetize a list by the nth character                     |python  |
 |CodeEval       |Chardonnay or Cabernet                                      |python  |
