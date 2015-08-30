@@ -7,7 +7,9 @@ CodeEval:     [https://www.codeeval.com/profile/Creator_r/](https://www.codeeval
 
 ##Solved problems
 
-CodeWars        ComplementaryDNA                                            python  
-CodeWars        Alphabetize a list by the nth character                     python  
-CodeEval        Chardonnay or Cabernet                                      python  
-Coursera        Cryptography I. PA1                                         python  
+|: Site :|: Problem :|: Language :|
+|-|-|-|
+|CodeWars       |ComplementaryDNA                                            |python  |
+|CodeWars       |Alphabetize a list by the nth character                     |python  |
+|CodeEval       |Chardonnay or Cabernet                                      |python  |
+|Coursera       |Cryptography I. PA1                                         |python  |
