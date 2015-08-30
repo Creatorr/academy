@@ -19,14 +19,15 @@ for test in test_cases:
     # test = "Cabernet Merlot Noir | ot"
     # test = "Chardonnay Sauvignon | ann"
     # test = "Shiraz Grenache | o"
-    pos_sep = test.find('|')
-    wine = test[:pos_sep - 1]
-    letters = test[pos_sep + 2:]
-    for letter_wine in wine:
-        if letters.find(letter_wine) > -1:
-            letters = letters.replace(letter_wine, "")
-    if len(letters) > 0:
-        print "False"
-    else:
-        print wine
+    if len(test) > 0:
+        pos_sep = test.find('|')
+        wine = test[:pos_sep - 1]
+        letters = test[pos_sep + 2:]
+        for letter_wine in wine:
+            if letters.find(letter_wine) > -1:
+                letters = letters.replace(letter_wine, "")
+        if len(letters) > 0:
+            print False
+        else:
+            print wine
 test_cases.close()
