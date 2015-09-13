@@ -21,3 +21,4 @@ It was created to store the code in different programming languages, which appea
 |CodeEval		|Robo and Robitta											 |python  |  
 |CodeEval		|Column Names												 |python  |
 |CodeEval		|Lakes, no cakes											 |python  |
+|Coursera       |IIPP (Part 2): Blackjack                                    |python  |
