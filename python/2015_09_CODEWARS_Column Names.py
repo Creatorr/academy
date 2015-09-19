@@ -15,14 +15,16 @@
 #  
 ################################################################################
 
-import sys
+# import sys
 
-test_cases = open(sys.argv[1], 'r')
+# test_cases = open(sys.argv[1], 'r')
 
-#test_cases = list() 
-#for i in range(18260, 18350): test_cases.append(str(i))
+test_cases = list()
+for i in range(18260, 18350):
+    test_cases.append(str(i))
 
-dictionary = ["Z", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+dictionary = ["Z", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T",
+              "U", "V", "W", "X", "Y", "Z"]
 for test in test_cases:
     if len(test) > 0:
         int_column = int(test)
@@ -34,5 +36,7 @@ for test in test_cases:
             if int_column <= (27*26):
                 print dictionary[(int_column - 1) / 26] + dictionary[int_column % 26]
             else:
-                print dictionary[(int_column - 27) / (26 * 26)] + dictionary[((int_column - 1) / 26) % 26] + dictionary[int_column % 26]
-test_cases.close()
+                print dictionary[(int_column - 27) / (26 * 26)] \
+                      + dictionary[((int_column - 1) / 26) % 26] \
+                      + dictionary[int_column % 26]
+# test_cases.close()
