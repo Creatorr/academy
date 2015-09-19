@@ -22,4 +22,5 @@ It was created to store the code in different programming languages, which appea
 |CodeEval		|Column Names												 |python  |
 |CodeEval		|Lakes, no cakes											 |python  |
 |Coursera       |IIPP (Part 2): Blackjack                                    |python  |
-|CodeEval		|Time to eat    											 |python  |
+|CodeEval		|Time to eat    											 |python  |  
+|Coursera       |IIPP (Part 2): Spaceship                                    |python  |  
