@@ -26,7 +26,6 @@ for test in test_cases:
     len_code = len(test)
     if len_code > 0:
         error_code = False
-        variants = 0
         asterisk = 0
         for index_code in range(len_code / 2):
             letter_1 = test[index_code]
@@ -34,18 +33,12 @@ for test in test_cases:
             if letter_1 == letter_2 == "*":
                 asterisk += 1
             elif letter_1 != letter_2:
-                if ((letter_1 == "A" or letter_1 == "B") and letter_2 == "*")\
-                        or ((letter_2 == "A" or letter_2 == "B") and letter_1 == "*"):
-                    variants += 1
-                else:
+                if (letter_1 == "A" and letter_2 == "B")\
+                        or (letter_1 == "B" and letter_2 == "A"):
                     error_code = True
                     break
         if error_code:
             print 0
         else:
-            if asterisk > 0:
-                variants = 2 ** asterisk
-            else:
-                variants = 1
-            print variants
+            print 2 ** asterisk
 test_cases.close()
