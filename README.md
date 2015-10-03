@@ -24,3 +24,5 @@ It was created to store the code in different programming languages, which appea
 |Coursera       |IIPP (Part 2): Spaceship                                    |python  | |
 |CodeEval		|Time to eat    											 |python  | |
 |CodeEval		|Double Trouble    											 |python  | 03.10.15 |
+|CodeEval		|Remove Characters 											 |python  | 03.10.15 |
+===
