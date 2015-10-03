@@ -10,16 +10,16 @@ It was created to store the code in different programming languages, which appea
   
   
 ##Solved problems
-
-| Site | Problem | Language |
-| --- | --- | --- |
-|CodeWars       |ComplementaryDNA                                            |python  |
-|CodeWars       |Alphabetize a list by the nth character                     |python  |
-|CodeEval       |Chardonnay or Cabernet                                      |python  |
-|Coursera       |Cryptography I. PA1                                         |python  |
-|Coursera       |Principles of Computing (Part 1) PA1                        |python  |  
-|CodeEval		|Robo and Robitta											 |python  |  
-|CodeEval		|Column Names												 |python  |
-|CodeEval		|Lakes, no cakes											 |python  |
-|Coursera       |IIPP (Part 2): Blackjack                                    |python  |
-|CodeEval		|Time to eat    											 |python  |
+| Site | Problem | Language | Date |
+| --- | --- | --- | --- |
+|CodeWars       |ComplementaryDNA                                            |python  | |
+|CodeWars       |Alphabetize a list by the nth character                     |python  | |
+|CodeEval       |Chardonnay or Cabernet                                      |python  | |
+|Coursera       |Cryptography I. PA1                                         |python  | |
+|Coursera       |Principles of Computing (Part 1) PA1                        |python  | |
+|CodeEval		|Robo and Robitta											 |python  | |
+|CodeEval		|Column Names												 |python  | |
+|CodeEval		|Lakes, no cakes											 |python  | |
+|Coursera       |IIPP (Part 2): Blackjack                                    |python  | |
+|CodeEval		|Time to eat    											 |python  | |
+|CodeEval		|Double Trouble    											 |python  | 03.10.15 |

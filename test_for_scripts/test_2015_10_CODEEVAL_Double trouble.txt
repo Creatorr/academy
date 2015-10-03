@@ -1,0 +1,11 @@
+ABA*
+BAA*
+A*A*
+AABA***B*******B
+AABABAABAA
+******
+****A**A*B*A***A*B**B****BB*A***B*AA*B****
+*A*ABB**B**B*AB*AA
+AAB*B****************BAAB*******BB*A*****B**BB***B*B*A
+*A*A*B*B*******BA*****A***A*
+****B**B***B***A*******A**
