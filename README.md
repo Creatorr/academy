@@ -25,4 +25,5 @@ It was created to store the code in different programming languages, which appea
 |CodeEval		|Time to eat    											 |python  | |
 |CodeEval		|Double Trouble    											 |python  | 03.10.15 |
 |CodeEval		|Remove Characters 											 |python  | 03.10.15 |
+|CodeEval		|One Zero, Two Zero...										 |python  | 10.10.15 |
 ===
